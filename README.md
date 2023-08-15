@@ -1,7 +1,7 @@
 
-# repoName
+# movieTracker-Keerat666
 
-# About repoName
+# A project to track my fav movies.
 
 
 
